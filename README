@@ -1,0 +1,51 @@
+README.md
+markdown# Scope Classifier Project
+
+A machine learning classifier to identify invalid human answers in Q&A systems.
+
+## Overview
+- **Baseline Accuracy**: 30-40%
+- **Best Method**: Logistic Regression with Balanced Class Weights (LR-BAL)
+- **Final Results**: 63-89% accuracy depending on test set
+
+## Project Structure
+scopeClassifier/
+├── models/                 # Trained models
+├── data/                   # Training and test data (if shareable)
+├── src/
+│   ├── train_on_group0.py # Training script
+│   ├── evaluate_other_groups.py # Evaluation script
+│   ├── preprocess.py      # Data preprocessing
+│   └── single_person_converter.py # Single annotator processing
+├── results/               # Evaluation outputs
+├── requirements.txt       # Dependencies
+└── README.md
+
+## Quick Start
+
+1. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+Train the model:
+bashpython src/train_on_group0.py
+
+Evaluate on test groups:
+bashpython src/evaluate_other_groups.py
+
+
+Results Summary
+GroupTest ItemsAccuracyNotesGroup 144489.2%Single annotatorGroup 2[TBD][TBD]%[Add details]Group 392263.4%Consensus from 3 annotators
+Key Features
+
+Handles annotation inconsistencies across groups
+Conservative classification (avoids false positives)
+Supports both single annotator and consensus labeling
+Robust preprocessing for various annotation formats
+
+Model Details
+
+Algorithm: Logistic Regression with balanced class weights
+Features: TF-IDF vectorization of human answers
+Training Data: Group 0 (785 items)
+Validation: Cross-group testing on Groups 1-3

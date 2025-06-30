@@ -1,0 +1,602 @@
+{
+    "0": {
+        "question": "I need to make changes to my Concur profile, specifically correcting the name under the travel information. My preferred contact is listed as 'Requested by' and my contact method is email, which is ka2933@columbia.edu.",
+        "human_answer": "Hello,\n\nWe have not heard back from you regarding the additional information we need to assist you with your Service Now Incident. Because several days have passed since we requested additional information, the Service Center has marked the incident as resolved. If you do not feel this issue was resolved, please re-open this incident and provide the required information.\n\nThank You\n",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "1": {
+        "question": "Maximo Jalife is mentioned in some reports, but I\u2019m not sure what to do regarding this. Can you provide more context or guidance?",
+        "human_answer": "Payment Date   04/18/2024\nPay  Reference  1002252295",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "2": {
+        "question": "What should I put in the site field for Canada in Concur, and how do I show the currency I used?",
+        "human_answer": "In the report header, in the site field, just start typing the name of the country and it should appear for you to select. \nWhen adding an expense, at the end of the details box next the amount field, the currency field will appear. You can select the currency type there. ",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "3": {
+        "question": "What is the process for returning funds for a Concur reimbursement?",
+        "human_answer": "Explained the return of funds process to user.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "4": {
+        "question": "Can I get a reimbursement for the conference fee associated with rz2557?",
+        "human_answer": "Student must confirm if address information on profile is correct. If update needed can do so going to Student Services Online(SSOL). Thank you",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "5": {
+        "question": "Can you provide me with the Concur Expense Closing Schedule?",
+        "human_answer": "Concur Travel/Business Expense Reports\nConcur will continue to be available to users during the ARC access lockout, AP will continue\nto audit Expense Reports during this time. All Expense Reports that are fully approved\n(departmental and AP) by June 26, 5pm will be paid in ARC on June 27. Expense Reports\nsubmitted into workflow with at least a supervisor/initial reviewer approval and/or Travel and\nBusiness Corporate Card transactions not assigned to an Expense Report (which is in\nworkflow) as of June 30 will be accrued through the automated ARC accrual process ensuring\nthat these expenses are reflected in FY24. Any Expense Report approved by AP during the\nARC access lockout will be paid on July 1.\nExpense Reports which have not received at least a supervisor/initial reviewer approval and\nColumbia Air/Rail Central Pay transactions not assigned to an Expense Report (which is in\nworkflow) will not be included in the ARC accrual process and will need to be addressed\nPage 5 of 15\nthrough a manual accrual process with the Controller's Office (detailed in Section 8,\nREVENUE/EXPENSE ACCRUALS).\nExpense Reports processed subsequent to the last file feeds from Concur will be posted in the\nnew fiscal year\n\nSee Year-End Transaction Processing Guidance  -\nhttps://www.finance.columbia.edu/sites/default/files/content/Finance%20Documents/Accounting%20Operations/FY24%20Year-End%20Transaction%20Processing%20Guidance%20FINAL.pdf",
+        "out-of-scope": true,
+        "invalid_HA": false
+    },
+    "6": {
+        "question": "I'm the travel arranger for UNI: sme2159, and I'm trying to reconcile Central Pay transactions over 365 days old. Since I can't change the dates on these transactions, how should I proceed?",
+        "human_answer": "change is to travel expense",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "7": {
+        "question": "I'm checking the status of my reimbursement report with a value of $820.00 and the report key is 231151. Can you provide an update on this?",
+        "human_answer": "Address for  Report Key :231151  is valid and studnet has ACH default location",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "8": {
+        "question": "Good morning, I no longer receive email notifications from Concur. Can you check my settings and tell me what I need to update? Thank you. Anna.",
+        "human_answer": "Hi Anna,\nPlease give the email address verification another try. let me know if it still doesn't work. \nThank you.\n\nKin Chiang\nColumbia University in the City of New York\nConcur Expense Administrator\n615 W. 131st, 3rd floor\nNew York, NY 10027\nPhone: 212-851-7127\n\n",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "9": {
+        "question": "I cannot find Mychael DelGado, with uni mwd2127, in Concur. Can you help me with that?",
+        "human_answer": "Mychael has to enter a local US mailing address in SSOL",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "10": {
+        "question": "Good morning, Despina Kontos is having trouble submitting a report because of an itinerary issue. We reviewed everything and nothing seems incorrect. Could you please advise? Thank you.",
+        "human_answer": "It saying they did not enter a full itinerary. Please see this job aid pgs 11-13 for itinerary instructions. https://www.finance.columbia.edu/sites/default/files/content/Training%20Documents/Concur/Job%20Aids/Job_Aid_Concur_Itemizing_Lodging.pdf",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "11": {
+        "question": "I'm experiencing an SAP Concur error, but I'm unsure what to do about it.",
+        "human_answer": "As a student, you do not have default access to login to Concur. There are two options to reimburse you:\n\n1. Your department can enter the expense report on your behalf using a \"non-profiled payee\" report type.\n\n2. Your department can request to have you \"opted in\" to Concur so that you can login to Concur and enter the expense report yourself.\n\nPlease follow up with your department to see which option they want to use. ",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "12": {
+        "question": "I just set up Activity 19 for project GG017735. While I can access this activity in ARC, I'm unable to access it within Concur. Can someone help me with this?",
+        "human_answer": "Glad it's working now Carol! \n\nTiming issue due to the budget having to feed to ARC and then from ARC to Concur.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "13": {
+        "question": "How can we remove access from the initial reviewers?",
+        "human_answer": "To remove the initial reviewer role, please submit a ServiceNow request with the uni, department number, and role you wish to be removed. We will then escalate to our tier2 team who will remove the security role from those individuals. \nThanks. ",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "14": {
+        "question": "I'm trying to look up someone who submitted in Concur with ID lg2989, but I can't seem to find them. Can you help me?",
+        "human_answer": "Explained the roles that would allow someone to see the documents in another users concur reports. \n\nNo reply since May 06. Closing ticket.\n",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "15": {
+        "question": "I'm trying to help a user who is getting an error when attempting to log into Concur. We even tried using incognito mode, but the error persists.",
+        "human_answer": "Hi Roberto,\nJenilyn's login email was pointing to an old email. I've updated it to  jr4445@columbia.edu, please give the login another try.\nThank you.\n\nKin Chiang\nColumbia University in the City of New York\nConcur Expense Administrator\n615 W. 131st, 3rd floor\nNew York, NY 10027\nPhone: 212-851-7127",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "16": {
+        "question": "Hello, I'm reaching out because a Law School employee, Max Milliken (mm6757), is having trouble logging into Concur as detailed in the attached email. Could you please provide some guidance for him? Thank you.",
+        "human_answer": "Jenny,\nThis employee's hiring documents have not been fully processed and I don't see a PAC profile for him. Need to wait until profile is set up in PAC and after that he will have automatic access to concur\nThanks",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "17": {
+        "question": "Can you please review the Concur report for qg2002?",
+        "human_answer": "Helped with Concur report segregation",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "18": {
+        "question": "Can Service Corp Employees submit reimbursements using Concur? Can someone provide clarity on this?",
+        "human_answer": "Nisha will use the non-profiled payee option once the vendor ID is created.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "19": {
+        "question": "I submitted an expense report for reimbursement to a student named MAO LE JONATHAN ANG on February 14, 2024. He said he hasn't received the payment yet. Can you confirm if it was sent and to what address?",
+        "human_answer": "Tracy,\nPayment Date 02/20/2024\nPay Reference 1002237497\nAddress check is mailed to:\nMAO LE JONATHAN ANG\n244 W 99TH ST # 517\n#517\nNEW YORK, NY 10025-5488\nHowever, check has not been cashed. I think you should submit a stop payment and reissue request\nThanks",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "20": {
+        "question": "I tried accessing Concur but the system says there is a new two-tier authentication I have to go through. I was sent a QR code to scan with an app that I don\u2019t have. I followed the instructions to input the key exactly as instructed, but it didn\u2019t work. I contacted the Concur help link, which had two irrelevant options managed by a bot. I also contacted Mike Stanish at A&S IT and sent him screenshots. He said he\u2019d never seen anything like this and advised me to contact you because something seems wrong. I'm really frustrated because I have just under $5000 to be reimbursed and can\u2019t access Concur. As a historian, I\u2019m not tech-savvy and I don\u2019t think I should have to be. I find this whole situation exhausting and have attached screenshots of the issues I encountered.",
+        "human_answer": "Dr. Pedersen  was able to trouble shoot with her DA.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "21": {
+        "question": "I have an inquiry regarding traveling in Premium Economy through Concur.",
+        "human_answer": "Provide a price comparison  and segregate.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "22": {
+        "question": "I received a message that says \"This hotel charge is over $525/night and will be routed for policy exception approval. Please provide a justification,\" but the hotel charge is only $267 a night. How can I remove this message? My report number is 0TDX1X. Thank you!",
+        "human_answer": "Issue has been resolved by user.\n\nThanks for the update Olena!",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "23": {
+        "question": "Good afternoon, I want to change my bank details to receive an ACH, but I can't access Concur due to an error message. What should I do?",
+        "human_answer": "You currently do not have a Concur profile. If you are not an employee or student, they have to send you a PaymentWorks invite to set up an outside party vendor ID first. Then they can apply for access to Concur via an Financial Systems Security Application or they would submit the expenses on your behalf.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "24": {
+        "question": "I'm a former student and I'm receiving emails from Concur/World Travel to reconcile an $8 booking fee charge. Since I no longer have access to Concur, can we move all pending travel/expense charges to my Concur profile?",
+        "human_answer": "Hi Ryan,\nThe charge has been moved to your account for reconciliation. Please let me know if you have any questions. \nThank you.\n\nKin Chiang\nColumbia University in the City of New York\nConcur Expense Administrator\n615 W. 131st, 3rd floor\nNew York, NY 10027\nPhone: 212-851-7127",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "25": {
+        "question": "I have an expense report for university sl3440 with Report Key: 246525. What do I need to know about this report?",
+        "human_answer": "The processor can itemize the total amount for each attendee and note in the comments field of each itemization who the cost would be allocated to.",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "26": {
+        "question": "I'm trying to process a Concur reimbursement for Siddesh Zadey but can\u2019t find his name. How should he be profiled? Is he considered a student or an outsider?",
+        "human_answer": "Reopen ticket or give us a call if any further questions. Thank you",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "27": {
+        "question": "Can I get an update on the status of the expense report for uni jsk2182, specifically Report Key 226996?",
+        "human_answer": "Hi Chermaine,\nI see that you have created and submitted a copy of the report you have issues with. Please let me know if you run into any issues with the new submission.\nThank you.\n\nKin Chiang\nColumbia University in the City of New York\nConcur Expense Administrator\n615 W. 131st, 3rd floor\nNew York, NY 10027\nPhone: 212-851-7127",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "28": {
+        "question": "How can I become a Concur Travel Arranger?",
+        "human_answer": "To become a Concur Travel Arranger please submit a Financial Systems Security Application in Service Now by doing the following:\n1. Go to columbia.service-now.com \n2. After logging in, click on \"Catalog\" \n3. Click on \"Finance\"\n4. Click on \"Show More\" at the bottom of the page\n5. Click on \"Financial Systems Security Application\"\nTravel Arranger appears in section 2.1",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "29": {
+        "question": "I see that I have reports in Concur that are pending approval. Can you provide guidance on how to move this along?",
+        "human_answer": "Please reopen ticket or give us a call if any additional questions. Thank you",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "30": {
+        "question": "Could you please cancel the fully approved expense reports that the department does not want to pay? Thank you.",
+        "human_answer": "Reports have already been cancelled.",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "31": {
+        "question": "I've noticed that vendor 0000230998's outside party address is not showing in the Concur report for NPP. Could you help me resolve this?",
+        "human_answer": "User found address from the list.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "32": {
+        "question": "Can you advise me on why the following chart string is not available in Concur: 6010302 GENRL GT006892 01 00000 MT3102?",
+        "human_answer": "There is no FY 24 budget under project GT006892\nConcur only carries projects with valid fiscal year budget\nThanks\n",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "33": {
+        "question": "What is the status of report key 218508? It was entered as a non-profiled payee expense report and paid to vendor KATHARINE A HUFFMAN, but it seems it should have been paid to Shaina. What steps should be taken since the check was cashed?",
+        "human_answer": "Should be paid 11/3. If you do not see this paid 11/3 please call us back.",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "34": {
+        "question": "I have a payee, CNR0088427 (MA4177, MATIAS ALVO), who is unable to submit reports unless they attach a request in Concur first. Two different admins have tried to prepare a report for them as a non-profiled payee, and one could do it while the other couldn't. Can someone explain why that might be happening? Also, they have a report pending submission but can't proceed due to this request issue. What can we do?",
+        "human_answer": "Provided options. Jamie will ask SBO to put in a ticket to have the student opted-out.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "35": {
+        "question": "Hello, we are receiving an alert stating to confirm the number of attendees. If there are less than 10, we should list each attendee's name; if there are 10 or more, we should adjust the Attendee Count field. However, we are unable to adjust the attendee count field at all. Can you please advise? Thank you.",
+        "human_answer": "Changing the expense type from Meetings and Events to Entertainment opened up the option to change the number of attendees.\n",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "36": {
+        "question": "I'm having an issue with Concur; it says user pg2564 is not found.",
+        "human_answer": "Department will confirm if an FSSA needs to be submitted for access.",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "37": {
+        "question": "I have a question about the Concur report bf2187. Can someone help me with the approval workflow?",
+        "human_answer": "Please recall reports. Once Josh can confirm the financial approver is Jacqueline Jenkins you can resubmit. Give us a call if any questions. Thank you",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "38": {
+        "question": "I have some unallowable expenses on my corporate card that I need assistance with reconciling. What should I do?",
+        "human_answer": "Hi Yesenia,\nPer our conversation, It's the department's decision whether the user should request a refund and recharges the transaction appropriate. With that said, all charges currently in the user's account will need to reconcile regardless of the option to seek refund for the charges. As for the infraction question, if the charges occurred on the same month, then it would count as a single infraction. \nLet me know if you have other questions. Thank you.\n\nKin Chiang\nColumbia University in the City of New York\nConcur Expense Administrator\n615 W. 131st, 3rd floor\nNew York, NY 10027\nPhone: 212-851-7127",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "39": {
+        "question": "In Concur report UNI GL2753, the hotel name is not listed from the menu. What should I do?",
+        "human_answer": "Select 'Other' and type in the hotel name in the Comments box.",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "40": {
+        "question": "How can I get all my available expense reports assigned to my profile, uni ta2015?",
+        "human_answer": "Hi Yawo,\nReport under one account cannot be assigned to another person. report workflow is based on chartstrings.\nThank you.\n\nKin Chiang\nColumbia University in the City of New York\nConcur Expense Administrator\n615 W. 131st, 3rd floor\nNew York, NY 10027\nPhone: 212-851-7127",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "41": {
+        "question": "Can someone please provide details about the Concur workflow?",
+        "human_answer": "Approvals:\nib2022: up to $2500\nrh2611: $2501-$15,000\nbrr2127: $15,001-$30,000",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "42": {
+        "question": "I'm trying to submit the report with key 2470792, but I keep getting an alert that I need to provide justification even though I've made a comment. What should I do if deleting and resubmitting doesn't work?",
+        "human_answer": "Try to delete the report. Sometimes the system glitches and restarting the report clears the issue. If it doesn't work, let me know and I will escalate to our Concur team.",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "43": {
+        "question": "I can't approve a faculty report in Concur. What should I do?",
+        "human_answer": "Hi Manidipa\nYou cannot approve Lambert's report in Lambert's account, you need to log into your own account to approve Lambert's report as Concur have routed the report to your account.\n\n-Kin",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "44": {
+        "question": "I need help reconciling travel expenses for a guest in Concur.",
+        "human_answer": "When you are reconciling you don't do it under the non-profile payee, that is used to reimburse the traveler. In this case, you do it under your own profile, since you're just reconciling no payments will be issued. Here is the\nJob aid: https://travel-expense.finance.columbia.edu/news/how-do-i-reconcile-corporate-card-or-airrail-central-pay-transactions\nvideo job aid: https://www.finance.columbia.edu/content/reconciling-corporate-card-and-columbia-airrail-central-pay-transactions-concur",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "45": {
+        "question": "As Ben Zweig's supervisor, I need to approve his expense report, but I can't find it when I log into Concur. Can you please add me as an approver since I completed the training?",
+        "human_answer": "Job aid attached\n\nYour departments DAF has to opt you in for concur supervisor approval role and you will be assigned the required training. Currently you have not taken the training\nThanks",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "46": {
+        "question": "How do I handle an extended travel date in my expense report?",
+        "human_answer": "User is directed to provide a comparison flight document",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "47": {
+        "question": "I have a reconciling question that I need clarification on.",
+        "human_answer": "Will reconcile at the end of the trip in November. Give us a call if any questions, Thank you",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "48": {
+        "question": "I need information about Concur travel. Can you help?",
+        "human_answer": "Comparison will need to be uploaded. Any additional questions let us know. Thank you",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "49": {
+        "question": "I need to merge a supplier ID from PaymentWorks with an RITM number from a security application for temporary access to Concur. I was told there should be a spot on the Excel sheet for this, but the form I have from previous requests doesn't include it. Should I just add it in the comments of the incident or is there another form I should use? Thank you.",
+        "human_answer": "Temp already has vendor profile. Jessica included it in the email with the Excel file.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "50": {
+        "question": "What does 'Concur adjusting segregation' mean? Can someone provide clarification on this term?",
+        "human_answer": "Adjusting the reports segregation. Give us a call if any questions. Thank you",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "51": {
+        "question": "I need help setting up direct billing.",
+        "human_answer": "Cynthia,\n\nLook under # 6 for direct billing set up\n\nhttps://travel-expense.finance.columbia.edu/content/travel-how-tos\n\nThanks",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "52": {
+        "question": "I need assistance with the Concur report for uni ldc17, Report Key: 266551. Can you provide guidance on this?",
+        "human_answer": "Report Key :266551\nPending approval from Audrey  Rosenblatt",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "53": {
+        "question": "Hi there, is there a way for me to send a reminder to the Cost Object Approval for my expense that I submitted on 1.22.2024 after making the adjustments requested? I'm really sorry to bug you, and I appreciate your help! Thanks, Emily.",
+        "human_answer": "Emily,\nCost object approval is same as Financial pproval. Your expense is pending approval from\nFinancial Approver\nSRG GI/Endo (COLUM-7552402)\nTaveras, Francina\nPlease reach out to Francina Taveras\nThanks",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "54": {
+        "question": "Please advise on how to proceed with the pending reports that are being routed for approval to KK2224, who is no longer with the department.",
+        "human_answer": "Kathryn no long has roles in the system. Please recall the report and re-submit for re-routing.  Thank you.\nKIn",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "55": {
+        "question": "Why isn't my hotel listed in Concur?",
+        "human_answer": "Select/type in \"Other\" and enter the hotel name in the Comments section.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "56": {
+        "question": "How will I receive cash advance or reimbursement payments?",
+        "human_answer": "For employees in PAC this is determined by what info is in their PAC profile. \nI can confirm that her CNR is set up to receive direct deposits. \nSebabatso  can confirm or change this via her PAC profile. \nGo to PAC\nSelect Payroll & Compensation\nSelect AP reimbursements",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "57": {
+        "question": "Prof. Cassuto assigned me as his delegate, but his Concur profile seems inactive. What steps does he need to take? Please advise.",
+        "human_answer": "Prof. Cassuto has to complete the delegate assigning process by checking all applicable boxes for which he is delegating Arelis",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "58": {
+        "question": "Can someone assist me with my airline purchase through Concur?",
+        "human_answer": "regular non-refundable fares should be purchased on both - domestic and international flights.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "59": {
+        "question": "Hello, I am having an issue with processing an expense reimbursement for a speaker, Brian Baer, who participated in a conference this past spring. His vendor ID is 0000265607, but when I enter his name or vendor ID number in Concur, I receive an error message. Can you please advise? Thank you, Alexa.",
+        "human_answer": "Alexandra,\nThis person has a classification of \"Supplier\" . You can only process a reimbursement in Concur if the vendor's classification is \"Outside Party\"\nFor vendors with supplier classification you need to process the reimbursement through ARC on a check request and make sure to uncheck the withholding applicable box on the withholding information page\nThanks",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "60": {
+        "question": "Can I get an update on the status of the aging corporate card expense for uni daf5?",
+        "human_answer": "There is no posted transaction under users profile",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "61": {
+        "question": "Emily Miller's cash advance for $314.24 was already reconciled in report number NQXIRP. Is there anything else I need to do?",
+        "human_answer": "Request has been manually closed",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "62": {
+        "question": "I'm trying to log into Concur for the first time, but I get an error message saying something went wrong. What should I do?",
+        "human_answer": "Hi Gabriel,\nI am not familiar with the CAS login. From what i understand, users are suppose to continue with the \"Shibboleth Login\".\nPlease email me if it does not log you into Concur by clicking Shibboleth Login.\nThank you\n\nKin Chiang\nColumbia University in the City of New York\nConcur Expense Administrator\n615 W. 131st, 3rd floor\nNew York, NY 10027\nPhone: 212-851-7127",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "63": {
+        "question": "When I try to log into Concur, I get a \"Sorry, something went wrong\" message (code: correlation_id c5c37fda077d8a35752bd2cbcd500ab0). Is Concur currently down? I need to submit pre-travel documentation before this weekend.",
+        "human_answer": "Directed to DA",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "64": {
+        "question": "I'm a new postdoctoral fellow at Columbia and began my appointment on September 1. The administrator for my program advised me to login to Concur to book my travel for the fall semester, but I can\u2019t access the system. When I enter my Columbia credentials and approve it through Duo, it successfully logs in but then shows a page saying, \"Sorry, something went wrong\" with the error code \"3e299bfe7e83791396b902f21345bdec.\"",
+        "human_answer": "Anatol,\nAre you a new employee?\nIf so you must wait until your profile is established in PAC, I don't see any profile yet\nThanks",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "65": {
+        "question": "I am unable to submit an expense report because Concur is indicating that the itemized sub-entries have one or more exceptions, and the rate exceeds the $350 per night threshold. I provided a justification comment explaining my situation. Can you assist me with this?",
+        "human_answer": "Jessica,\nYou need to itemize the lodging by allocating the overthreshold amount (the amount above $350.00) to a different expense line of hotel segregated expense type\nThanks",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "66": {
+        "question": "I am the Administrative Manager for University Chaplain Jewelnel Davis, and I am working on reconciling expenses for a recent business trip. I cannot find the vendor Hotel Rugendas in Concur when entering the name, nor can I find Time Hotel. The report ID is 589DE9F11BA740F9B4BD. Could you provide guidance on how to proceed?",
+        "human_answer": "Elmer,\nAll hotels are not listed in concur, when you can't find a hotel on the list you can select the option \"Other\"\nThanks",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "67": {
+        "question": "I'm trying to enter expenses for my recent business trip into Concur. I traveled from New York to Tampa for a conference from November 8 to 10, then from Tampa to New Orleans from November 10 to 15, and finally from New Orleans back home to St. Louis on November 15. However, when I enter my expenses in the travel allowances section of Concur, it alerts me about overlapping travel dates, preventing me from entering my expenses. How can I fix this?",
+        "human_answer": "Provided sample itinerary. If you are still experiencing problems please reopen the incident.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "68": {
+        "question": "I'm unsure if I can get reimbursed for the service charge. Is it considered tips since tips are reimbursable only up to 20%? I will refer to the attachment for details.",
+        "human_answer": "Tip in excess of 20% is not reimbursable",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "69": {
+        "question": "AL4268 currently shows wm2432 as her supervisor in the Concur tab of the supplier review module, but wm2432 is no longer with the university as of 11/8/2023. How can I correct this?",
+        "human_answer": "please see screenshot.\n",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "70": {
+        "question": "I'm submitting expenses I've paid for three staff members. Can you assist me with this process?",
+        "human_answer": "She may submit and itemized each expense type with justification that this is for 3 people.",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "71": {
+        "question": "How do I process reimbursements for the account number 0000241114?",
+        "human_answer": "As this vendor is classified as an outside party, you would submit his expense report on his behalf via concur as a Non-profile payee. \nNon-Profiled Payee: Job aid found here:\nCreating an Expense report on behalf of a Guest or Student found on pg. 3: https://travel-expense.finance.columbia.edu/sites/default/files/content/Finance%20Training/Job%20Aids/Job_Aid_Concur_Creating_Expense_Reports.pdf",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "72": {
+        "question": "I'm an adjunct, and I need to know if I have access to CONCUR to submit reimbursement for a lecture I gave at NIH in October, or if it has to be processed through a check request. Thank you.",
+        "human_answer": "All expense reimbursements are processed through concur as long as the vendor has an outside party classification. You should select the CU Non-profiled payee report type and the vendor type should be outside party.\nYou can use what ever valid e-mail account the user has  to send invitations through PW",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "73": {
+        "question": "I need assistance with accessing Concur for a former employee (uni es3054). What steps should I take?",
+        "human_answer": "Former employee,  uni es3054  doesn't have access to concur. Recommended that department has to create an outside party profile to process outstanding reimbursements",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "74": {
+        "question": "Maha Butt (mb5036) is a financially troubled student, and SIPA wishes to offer a cash advance for Capstone-related travel expenses. Since Maha is not a student employee, our DAF cannot grant Concur access to him. Can you advise how to grant Concur access for this student and how he can request a pre-trip cash advance? Thank you!",
+        "human_answer": "Calan\nThe DAF has to submit a service ticket with the students name uni and the type of access requested\nTanks",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "75": {
+        "question": "I was wondering if my Concur reimbursement, which was approved about a month ago, should show up as a direct deposit? Is there a way to track where the reimbursement went? I don't see it showing up with my direct deposit.",
+        "human_answer": "Marin,\nPlease check your statement. Reimbursement will be deposited in the account where you receive your payroll payment\nPayment Date 04/22/2024\nPay Reference 2001266415\nThanks",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "76": {
+        "question": "Hello Finance, I booked car rentals for Music Department graduate students in Concur for an approved trip using the credit card of one of the graduate students, who will be reimbursed later. However, the Columbia Travel page states that the driver needs a credit card in their name when picking up the vehicles. Does the credit card used for booking need to match the driver's name on the reservation, or is it similar to the process at hotels where it is used as a backup? Thank you!",
+        "human_answer": "The credit card that is presented at check-in does not have to match the credit card used to make the reservation. The credit card used to make the reservation will be used for the booking fee (if there is one). The credit card presented at check-in will be used for the car rental costs.",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "77": {
+        "question": "Can you help restore compliance approval access for Aisley Carter and Ryan Qualls in Concur? Also, please add Kelly Tiedemann temporarily for approvals.",
+        "human_answer": "request processed",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "78": {
+        "question": "If the hotel is not on the list, should I just select Other and type in the hotel name in the Comments section?",
+        "human_answer": "If hotel is not on the list, select Other and type in hotel name in the Comments section.",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "79": {
+        "question": "I need assistance with the Concur Travel cash advance job aid. Can you provide guidance on this?",
+        "human_answer": "Here is the job aid pg. 4 has instructions for the cash advance only: https://www.finance.columbia.edu/sites/default/files/content/Training%20Documents/Concur/Job%20Aids/Job_Aid_Concur_Submitting_Requests.pdf\n\nPlease double check whether they need a cash advance or a pretrip cash advance. They are two different things.",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "80": {
+        "question": "I need a price comparison for an international flight I booked in 'Premium Economy'.",
+        "human_answer": "Submit a price comparison between Premium and Economy.",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "81": {
+        "question": "What is the status of my expense report for 'Dirk Vanderlaan mileage expenses'? I see that it is currently pending department financial approval.",
+        "human_answer": "Currently pending department financial approval.",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "82": {
+        "question": "I made a booking under the wrong name. What should I do?",
+        "human_answer": "Contact a Columbia University designated Travel Counselor at World Travel, Inc. (WTI) at 1-855-961-0313.                         ",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "83": {
+        "question": "I was unable to book travel under my colleague's Concur profile. How can I help him book airfare using his profile?",
+        "human_answer": "Walked him through booking",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "84": {
+        "question": "I read the error message on the CONCUR log on the page regarding this ongoing issue with uploading receipts. Is there a back-end way to try? Should we just wait until the error is fixed?",
+        "human_answer": "Please give that a try",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "85": {
+        "question": "Wendy, as the delegate for UNI pdk3, I need to ensure the receipt shows the date and proof of payment for the taxi expense. Can you help with that?",
+        "human_answer": "For the taxi expense, receipt needs to show the date, proof of payment also is required.",
+        "out-of-scope": true,
+        "invalid_HA": true
+    },
+    "86": {
+        "question": "Hello, is there a way for me to access past Concur vouchers if I wasn't the initiator? Thanks.",
+        "human_answer": "Document attached",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "87": {
+        "question": "I need to update the hotel/lodging lines for th2258 to $350 and segregate the difference into two different lines. Can anyone help me with this process?",
+        "human_answer": "Change the hotel/lodging lines to $350, then put the difference in two lines for hotel lodging segregated.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "88": {
+        "question": "I'm trying to book work travel through Concur, but I can't book a flight because there's an issue with my travel profile and I don\u2019t know what the issue is. Can anyone help me troubleshoot this?",
+        "human_answer": "Please see this job aid with instructions on setting up your profile for Travel: https://www.finance.columbia.edu/content/setting-your-concur-profile-travel-and-expense-users\n\nIf that does not help resolve the issue please reach out to the Concur Online Booking Tool Support Center: 1-800-221-4730, Monday - Friday 8:00 a.m. - 8:00 p.m. ET ",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "89": {
+        "question": "In Concur, I need help on how to segregate a first class flight as the system is asking me to do so. Can you guide me on this? Thank you!",
+        "human_answer": "Follow guidance below\nhttps://travel-expense.finance.columbia.edu/news/how-do-i-itemize-business-class-flight\nThanks",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "90": {
+        "question": "How do I reimburse a guest speaker for their travel expenses related to their visit to Columbia? Should I set them up through Paymentworks and select \"goods\" or \"services\"?",
+        "human_answer": "create a vendor profile through paymentworks and can process reimbursement through concur once profile is approved",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "91": {
+        "question": "I am reconciling my Corporate Card for a hotel advance deposit, but I cannot submit my report before the trip end date. Also, I have a question about meal threshold overages. Can someone assist me?",
+        "human_answer": "Please segregate the amount over the meal threshold.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "92": {
+        "question": "I'm having trouble logging into Concur. I was told it can take a few days after activation in PAC for the Concur login to be activated. Can you confirm if I should try logging in again tomorrow?",
+        "human_answer": "Can take a few days after you are activated in PAC for the Concur login to activate. Please try to login again tomorrow.",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "93": {
+        "question": "I found the job aid for creating an expense report in Concur and Columbia's travel policy. Can someone help clarify how to use them for my reimbursement for conference expenses?",
+        "human_answer": "Here is the job aid on how to create an expense report in Concur:\nhttps://www.finance.columbia.edu/sites/default/files/content/Training%20Documents/Concur/Job%20Aids/Job_Aid_Concur_Creating_Expense_Reports.pdf\n\nHere is Columbia's travel policy:\nhttps://universitypolicies.columbia.edu/content/travel-expense-policy",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "94": {
+        "question": "How should I classify the expense for a day trip?",
+        "human_answer": "Expense for a day trip should be submitted as a business expense. There has to be an overnight stay outside New York for  expense to be processed as a travel expense",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "95": {
+        "question": "Good morning, I am Christopher Yera, a postdoc with the CSSW CPSP team. I will be attending a conference in November representing our Center. If I register now, I will receive a discount. Can I get reimbursed now ahead of travel to the conference, and if so, what is the best way to proceed? Should I process it as a pre-travel advance in Concur or as a regular reimbursement? Thank you for your advice.",
+        "human_answer": "Air fare and registration fee /Membership fee can be reimbursed before end of trip\nHe can submit expense reimbursement request through concur",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "96": {
+        "question": "I need help with my meal expense report - can you guide me on how to itemize the meal, tax/tip, and segregate overages?",
+        "human_answer": "Meal expense must be itemize - food/meal, tax and tips, and segregate overage.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "97": {
+        "question": "I'm looking to enter an expense report under the Expense tab in Concur for expenses that I've already incurred. What steps should I follow?",
+        "human_answer": "Enter an expense report under the Expense tab in Concur.",
+        "out-of-scope": false,
+        "invalid_HA": true
+    },
+    "98": {
+        "question": "Could you clarify the mileage policy for using a personal vehicle for university business? I want to make sure I understand the reimbursement rates and what is allowable.",
+        "human_answer": "From the Travel policy (https://universitypolicies.columbia.edu/content/travel-expense-policy):\n\nTravel by Private Vehicle                                            \nWhen traveling for business purposes, a personal vehicle may be used in order to save time, transport equipment, reduce costs when several people are traveling together, or travel to locations within reasonable driving distance. If a personal vehicle is used primarily for the convenience of the traveler and the approved travel is to a location more than 500 miles beyond the point of origin, reimbursement will not exceed the lesser of the following: 1) the cost of per- mile reimbursement plus tolls; or, 2) the round-trip airfare between the nearest commercial airport serving the origin and destination cities, plus transfer costs to and from the airport.\n                                                                       \nFor the business-related use of a personal vehicle, the traveler will be reimbursed at a rate based on the Federal IRS approved highway mileage guides. Mileage reimbursement covers fuel, maintenance/repairs, insurance, transportation and operating costs, so these will not be reimbursed separately. The traveler will not be reimbursed for the cost of vehicle purchase or lease.\n                                                                       \nIn addition to the mileage allowance, tolls and necessary parking charges may be reimbursed.\n\n                                                  \n\nThe University does not assume liability for damage to personal automobiles used on University business and does not assume liability for deductibles or any other uninsured loss to the vehicle. Expenses for vehicle repairs are not reimbursable. Under no circumstances will the University reimburse parking fines and moving violations on personal vehicle\n\n \n\nPersonal Vehicle Mileage Rate:\n\n    $.655/miles for travel on or after January 1, 2023\n    $.670/miles for travel on or after January 1, 2024\n",
+        "out-of-scope": false,
+        "invalid_HA": false
+    },
+    "99": {
+        "question": "Does Concur calculate mileage for me, so I don't need to provide a map printout? Can I claim tolls when doing that?",
+        "human_answer": "Concur will calculate mileage for you so you don't need to provide a map printout. \nTolls can be reimbursed when claiming personal car mileage.\n",
+        "out-of-scope": false,
+        "invalid_HA": false
+    }
+}
