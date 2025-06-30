@@ -77,7 +77,7 @@ def convert_single_csv_to_json(csv_file, output_json, group_name):
         print(f"Binary: {df_filtered['invalid_HA'].value_counts().to_dict()}")
         
     else:
-        print("❌ 'invalid_human_answer' column not found!")
+        print(" 'invalid_human_answer' column not found!")
         return None
     
     # Handle out-of-scope column (set to 0 since we're not using it)
@@ -93,7 +93,7 @@ def convert_single_csv_to_json(csv_file, output_json, group_name):
             if col == 'out-of-scope':
                 df_filtered[col] = 0
             else:
-                print(f"❌ Required column '{col}' not found!")
+                print(f" Required column '{col}' not found!")
                 return None
     
     final_df = df_filtered[required_cols].copy()
@@ -159,7 +159,7 @@ def convert_group(group_number):
         print(f"  {file}")
     
     if not csv_files:
-        print(f"❌ No CSV files found for group {group_number}")
+        print(f" No CSV files found for group {group_number}")
         return None
     
     # If multiple files, you can choose which one to use
@@ -186,12 +186,12 @@ if __name__ == "__main__":
         result = convert_single_csv_to_json("qa_labeling - 2_sophia.csv", "group2_consensus.json", "Group 1")
         
         if result is not None:
-            print(f"\n🎉 Success! hongy.csv converted to group1_single.json")
+            print(f"\n Success! hongy.csv converted to group1_single.json")
             print(f"Ready to use with your classifier!")
         else:
-            print(f"❌ Conversion failed!")
+            print(f" Conversion failed!")
     else:
-        print("❌ hongy.csv not found!")
+        print(" hongy.csv not found!")
         print("Available CSV files:")
         check_available_csvs()
     

@@ -112,7 +112,7 @@ def evaluate_single_group(group_file, group_name):
     bert_results = evaluate_bert_on_group(group_df, group_name)
     
     # Summary
-    print(f"\n📊 SUMMARY for {group_name}:")
+    print(f"\n SUMMARY for {group_name}:")
     print(f"LR Invalid_HA Accuracy: {lr_results['invalid_ha_acc']:.3f}")
     print(f"BERT Invalid_HA Accuracy: {bert_results['invalid_HA']['accuracy']:.3f}")
     print(f"BERT Invalid_HA Macro-F1: {bert_results['invalid_HA']['macro_f1']:.3f}")
@@ -147,14 +147,14 @@ def evaluate_all_groups():
 if __name__ == "__main__":
     # Check if models exist
     if not os.path.exists("models/lr_models.pkl"):
-        print("❌ Models not found! Run the training script first.")
+        print(" Models not found! Run the training script first.")
         exit(1)
     
     print("🚀 Starting evaluation on test groups...")
     
     # For now, let's just set up the framework
     # You'll run this after processing groups 1, 2, 3
-    print("📝 Ready to evaluate! Process groups 1, 2, 3 first, then run:")
+    print(" Ready to evaluate! Process groups 1, 2, 3 first, then run:")
     print("   python evaluate_other_groups.py")
     
     # Uncomment this when you have the other group files:

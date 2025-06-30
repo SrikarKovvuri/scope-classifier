@@ -54,7 +54,7 @@ def process_annotator_files(file_paths, group_names=None):
             df_filtered['invalid_human_answer'] = df_filtered['invalid_human_answer_normalized']
             
         else:
-            print(f"❌ 'invalid_human_answer' column not found in {file_path}!")
+            print(f" 'invalid_human_answer' column not found in {file_path}!")
             continue
         
         # Add annotator info
@@ -74,7 +74,7 @@ def process_annotator_files(file_paths, group_names=None):
         print(f"Combined data: {len(combined_df)} total rows")
         print(f"Overall distribution: {combined_df['invalid_human_answer'].value_counts().to_dict()}")
     else:
-        print("❌ No valid data found!")
+        print(" No valid data found!")
         return None
     
     return combined_df
